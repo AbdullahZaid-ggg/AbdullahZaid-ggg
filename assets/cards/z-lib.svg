@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="190" viewBox="0 0 380 190" role="img" aria-label="Z-LIB: high-performance TUI library management system in C++17">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="190" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="378" height="188" rx="15" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="42" width="5" height="146" rx="2.5" fill="#38bdf8"/>
+  <g transform="translate(24,28)">
+    <path d="M0 4a4 4 0 0 1 4-4h10l4 6h18a4 4 0 0 1 4 4v24a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4z" fill="#f59e0b"/>
+    <rect x="14" y="18" width="26" height="4" rx="2" fill="#0d1117" opacity="0.85"/>
+    <rect x="14" y="26" width="26" height="4" rx="2" fill="#0d1117" opacity="0.85"/>
+  </g>
+  <text x="58" y="48" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="17" font-weight="700" fill="#e6edf3">Z-LIB</text>
+  <text x="24" y="92" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" fill="#8b949e">High-performance terminal UI library</text>
+  <text x="24" y="111" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" fill="#8b949e">management system in C++17 with</text>
+  <text x="24" y="127" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" fill="#8b949e">zero-dependency JSON persistence.</text>
+  <line x1="24" y1="147" x2="356" y2="147" stroke="#21262d" stroke-width="1"/>
+  <circle cx="28" cy="164" r="5" fill="#f34b7d"/>
+  <text x="39" y="168" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#8b949e">C++</text>
+  <text x="356" y="168" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#e6edf3">★ 1</text>
+</svg>

@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahZaid-ggg&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahZaid-ggg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=AbdullahZaid-ggg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+<img src="https://raw.githubusercontent.com/AbdullahZaid-ggg/AbdullahZaid-ggg/main/assets/cards/github-stats.svg" alt="GitHub Stats" height="190" />
+<img src="https://raw.githubusercontent.com/AbdullahZaid-ggg/AbdullahZaid-ggg/main/assets/cards/top-languages.svg" alt="Top Languages" height="190" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=AbdullahZaid-ggg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="190" />
 
 </div>
 
@@ -80,10 +80,10 @@
 
 <div align="center">
 
-<a href="https://github.com/AbdullahZaid-ggg/Z-Fahm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahZaid-ggg&repo=Z-Fahm&theme=tokyonight" alt="Z-Fahm"/></a>
-<a href="https://github.com/AbdullahZaid-ggg/MasarEndProgram2526"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahZaid-ggg&repo=MasarEndProgram2526&theme=tokyonight" alt="MasarEndProgram2526"/></a>
-<a href="https://github.com/AbdullahZaid-ggg/Z-LIB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahZaid-ggg&repo=Z-LIB&theme=tokyonight" alt="Z-LIB"/></a>
-<a href="https://github.com/AbdullahZaid-ggg/small_computer_abdalla_zaid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahZaid-ggg&repo=small_computer_abdalla_zaid&theme=tokyonight" alt="small_computer_abdalla_zaid"/></a>
+<a href="https://github.com/AbdullahZaid-ggg/Z-Fahm"><img src="https://raw.githubusercontent.com/AbdullahZaid-ggg/AbdullahZaid-ggg/main/assets/cards/z-fahm.svg" alt="Z-Fahm" width="400" /></a>
+<a href="https://github.com/AbdullahZaid-ggg/MasarEndProgram2526"><img src="https://raw.githubusercontent.com/AbdullahZaid-ggg/AbdullahZaid-ggg/main/assets/cards/masar-end.svg" alt="MasarEndProgram2526" width="400" /></a>
+<a href="https://github.com/AbdullahZaid-ggg/Z-LIB"><img src="https://raw.githubusercontent.com/AbdullahZaid-ggg/AbdullahZaid-ggg/main/assets/cards/z-lib.svg" alt="Z-LIB" width="400" /></a>
+<a href="https://github.com/AbdullahZaid-ggg/small_computer_abdalla_zaid"><img src="https://raw.githubusercontent.com/AbdullahZaid-ggg/AbdullahZaid-ggg/main/assets/cards/esp32-os.svg" alt="small_computer_abdalla_zaid" width="400" /></a>
 
 </div>
 

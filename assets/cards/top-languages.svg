@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="190" viewBox="0 0 380 190" role="img" aria-label="Top languages for AbdullahZaid-ggg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="190" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="378" height="188" rx="15" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="24" width="5" height="120" rx="2.5" fill="#38bdf8"/>
+  <text x="24" y="46" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="17" font-weight="700" fill="#e6edf3">Top Languages</text>
+  <text x="356" y="46" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#8b949e">by repository count</text>
+
+  <rect x="24" y="64" width="332" height="18" rx="9" fill="#161b22"/>
+  <rect x="24" y="64" width="139" height="18" rx="9" fill="#f1e05a"/>
+  <rect x="163" y="64" width="110" height="18" rx="0" fill="#f34b7d"/>
+  <rect x="273" y="64" width="56" height="18" rx="0" fill="#555555"/>
+  <rect x="329" y="64" width="27" height="18" rx="9" fill="#e34c26"/>
+
+  <circle cx="28" cy="102" r="4" fill="#f1e05a"/>
+  <text x="39" y="106" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#e6edf3">JavaScript</text>
+  <text x="356" y="106" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#8b949e">42%</text>
+
+  <circle cx="28" cy="124" r="4" fill="#f34b7d"/>
+  <text x="39" y="128" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#e6edf3">C++</text>
+  <text x="356" y="128" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#8b949e">33%</text>
+
+  <circle cx="28" cy="146" r="4" fill="#555555"/>
+  <text x="39" y="150" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#e6edf3">C</text>
+  <text x="356" y="150" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#8b949e">17%</text>
+
+  <circle cx="28" cy="168" r="4" fill="#e34c26"/>
+  <text x="39" y="172" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#e6edf3">HTML</text>
+  <text x="356" y="172" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" fill="#8b949e">8%</text>
+</svg>
