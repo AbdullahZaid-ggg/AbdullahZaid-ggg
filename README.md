@@ -5,6 +5,9 @@
   </picture>
 </p>
 <p align="center">
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=AbdullahZaid-ggg&theme=ubuntu" alt="AbdullahZaid-ggg contribution activity" width="90%" />
+</p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/wordmark?username=AbdullahZaid-ggg&theme=neon&mode=light" />
     <img src="https://gitskins.com/api/section/wordmark?username=AbdullahZaid-ggg&theme=neon" alt="AbdullahZaid-ggg 3d wordmark section" />
