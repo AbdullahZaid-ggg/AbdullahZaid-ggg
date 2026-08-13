@@ -34,6 +34,7 @@ I'm a **Full-Stack developer** passionate about building elegant web application
 - 🔭 **Currently working on:** Full-stack web apps with **React + Vite** and embedded projects on **ESP32**.
 - 🌱 **Learning:** Advanced algorithms, operating systems, and C++ systems programming.
 - 💼 **Experience:** Full-Stack Developer (Trainee) at the **Masar Program (PreTech)** — shipped the Z-Fahm and Tatawo3 65x frontends.
+- 🐧 **Linux:** Hands-on experience with **Debian, Ubuntu, Linux Mint, Fedora, Arch, Parrot OS, Zorin, Pop!_OS, Manjaro, EndeavourOS, Gentoo, Kali, and more** — from daily driving to tinkering, package management, and terminal workflows.
 - 🤝 **Ask me about:** Full-Stack Web Development, C++ / Embedded (ESP32), Linux, and Speedcubing.
 - 📫 **How to reach me:** [abdallazeed3@gmail.com](mailto:abdallazeed3@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abdalla-zaid-81926439b).
 - ⚡ **Fun fact:** Registered **WCA Speedcubing competitor** ([2022ZEED01](https://www.worldcubeassociation.org/persons/2022ZEED01)) — I solve in 3x3, 2x2, and One-Handed.
@@ -104,6 +105,11 @@ I'm a **Full-Stack developer** passionate about building elegant web application
 ![Fedora](https://img.shields.io/badge/Fedora-%23294288.svg?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2387CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-%232E8E57.svg?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-%2348B9C7.svg?style=for-the-badge&logo=popsicle&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-%2315A6F0.svg?style=for-the-badge&logo=zorin&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237F52FF.svg?style=for-the-badge&logo=endeavouros&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-%235449A1.svg?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
 
 ---
