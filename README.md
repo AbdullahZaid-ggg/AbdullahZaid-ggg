@@ -222,7 +222,15 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahZaid-ggg&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Contribution Activity Graph" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahZaid-ggg&theme=tokyonight" alt="Contribution Profile" width="95%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahZaid-ggg&theme=tokyonight&hide_border=true&custom_title=Contributions%20Over%20Time&bg_color=0d1117&color=7aa2f7&line=7dcfff&point=ff79c6&area=true&area_color=7dcfff" alt="Contribution Activity Graph" width="95%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdullahZaid-ggg&theme=tokyonight&utcOffset=3" alt="Commit Time" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahZaid-ggg&theme=tokyonight" alt="Repos per Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahZaid-ggg&theme=tokyonight" alt="Commit Language" width="32%" />
 
 </div>
 
