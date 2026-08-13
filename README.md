@@ -29,9 +29,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering student at the Technion**, passionate about building web applications and writing clean, efficient systems in **C / C++**, with a strong background in Physics, Electronics, and embedded development on **ESP32**. I also do some **frontend work with React and Next.js**.
+I'm a **Software Engineering student at the Technion**. My main strengths are **Linux** and systems languages — **C, C++, Python, C#, and Kotlin** — plus **JavaScript, HTML, CSS, and React** for frontend, with a strong background in Physics, Electronics, and embedded development on **ESP32**.
 
-- 🔭 **Currently working on:** Full-stack web apps with **React + Vite** and embedded projects on **ESP32**.
+- 🔭 **Currently working on:** Embedded projects on **ESP32** and C++ systems.
 - 🌱 **Learning:** Advanced algorithms, operating systems, and C++ systems programming.
 - 💼 **Experience:** Full-Stack Developer (Trainee) at the **Masar Program (PreTech)** — shipped the Z-Fahm and Tatawo3 65x frontends.
 - 🐧 **Linux:** Hands-on experience with **Debian, Ubuntu, Linux Mint, Fedora, Arch, Parrot OS, Zorin, Pop!_OS, Manjaro, EndeavourOS, Gentoo, Kali, and more** — from daily driving to tinkering, package management, and terminal workflows.
