@@ -47,30 +47,55 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 
 <table align="center">
   <tr>
-    <td align="center"><b>🏛️ B.Sc. Computer Science</b><br><i>Software Engineering</i><br>Technion — Israel Institute of Technology<br><sub>Current</sub></td>
-    <td align="center"><b>🎓 Masar Program (PreTech)</b><br><i>Academic prep & high-tech training</i><br>Edmond de Rothschild Foundation & Ministry of Education<br><sub>2025–2026</sub></td>
-    <td align="center"><b>🏫 High School Diploma</b><br><i>Intensive Track — STEM</i><br>Atid Al-Nahda High School<br><sub>Math 5 · Physics, Electronics & CS 10 units</sub></td>
+    <th>🏛️ Technion</th>
+    <th>🎓 Masar Program</th>
+    <th>🏫 High School</th>
+  </tr>
+  <tr>
+    <td align="center"><b>B.Sc. Computer Science</b><br><i>Software Engineering</i><br><sub>Israel Institute of Technology · Current</sub></td>
+    <td align="center"><b>PreTech Program</b><br><i>Academic prep &amp; high-tech training</i><br><sub>Rothschild Foundation &amp; Ministry of Education · 2025–2026</sub></td>
+    <td align="center"><b>STEM Diploma</b><br><i>Intensive Track</i><br><sub>Atid Al-Nahda · Math 5 · Phys, Electron &amp; CS 10 units</sub></td>
   </tr>
 </table>
 
 ## 📜 Certifications
 
-- 🎓 **Bagrut (Israeli Matriculation) — STEM Graduate** — Atid Al-Nahda High School · Math 5 units, Physics & Electronics, CS 10 units
-- ✅ **Masar Program (PreTech) — Graduate** (2026)
+<table align="center">
+  <tr>
+    <td align="center">
+      🎓 <b>Bagrut (Israeli Matriculation) — STEM</b><br>
+      <sub>Atid Al-Nahda High School · Math 5 · Physics, Electronics &amp; CS 10 units</sub>
+    </td>
+    <td align="center">
+      ✅ <b>Masar Program (PreTech) — Graduate</b><br>
+      <sub>Edmond de Rothschild Foundation &amp; Ministry of Education · 2026</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Achievements
 
-- 🧊 **Registered WCA Speedcubing Competitor** — solves from 2x2 to 8x8, One-Handed, Blindfolded, Skewb, Megaminx, Pyraminx
-- 🎓 **Graduated the Masar Program** with two shipped frontend projects
+<table align="center">
+  <tr>
+    <td align="center">🧊 <b>WCA Speedcubing Competitor</b><br><sub>2x2 → 8x8 · One-Handed · Blindfolded · Skewb · Megaminx · Pyraminx</sub></td>
+    <td align="center">🎓 <b>Masar Program Graduate</b><br><sub>Shipped two frontend projects (Z-Fahm &amp; Tatawo3 65x)</sub></td>
+  </tr>
+</table>
 
 ## 💡 Interests & Coursework
 
-- 🧠 **Interests:** Mathematics, algorithmic thinking, speedcubing, Linux & open source, embedded hardware
-- 📚 **Coursework:** Discrete Mathematics, Data Structures, Algorithms, Operating Systems, Computer Architecture, Linear Algebra, Physics, Electronics
+<table align="center">
+  <tr>
+    <td align="center" width="50%">🧠 <b>Interests</b><br><sub>Mathematics · Algorithmic thinking · Speedcubing · Linux &amp; open source · Embedded hardware</sub></td>
+    <td align="center" width="50%">📚 <b>Coursework</b><br><sub>Discrete Math · Data Structures · Algorithms · Operating Systems · Computer Architecture · Linear Algebra · Physics · Electronics</sub></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 ### 💻 Languages
 
@@ -102,6 +127,7 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -114,6 +140,8 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237F52FF.svg?style=for-the-badge&logo=endeavouros&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-%235449A1.svg?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
+
+</div>
 
 ---
 
