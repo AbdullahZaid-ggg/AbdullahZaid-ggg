@@ -49,11 +49,11 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 | :--- | :--- |
 | **B.Sc. Computer Science — Software Engineering** | 🏛️ Technion — Israel Institute of Technology (Current) |
 | **Masar Program (PreTech)** | 🎓 Edmond de Rothschild Foundation & Ministry of Education (2025–2026) |
-| **High School Diploma — Intensive Track** | 🏫 Atid Al-Nahda High School · Majors: Electronics, Physics & CS |
+| **High School Diploma — Intensive Track** | 🏫 Atid Al-Nahda High School · Math 5 units; Physics, Electronics & CS 10 units |
 
 ## 📜 Certifications
 
-- 🎓 **Bagrut (Israeli Matriculation) — STEM Graduate** — Atid Al-Nahda High School, Intensive Track: majors in Electronics, Physics & Computer Science
+- 🎓 **Bagrut (Israeli Matriculation) — STEM Graduate** — Atid Al-Nahda High School · Math 5 units, Physics & Electronics, CS 10 units
 - ✅ **Masar Program (PreTech) — Graduate** (2026)
 
 ## 🏆 Achievements
