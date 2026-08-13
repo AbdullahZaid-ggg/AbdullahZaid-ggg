@@ -18,7 +18,7 @@
 <a href="https://github.com/AbdullahZaid-ggg">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.worldcubeassociation.org/persons/2023ZAID01">
+<a href="https://www.worldcubeassociation.org/persons/2022ZEED01">
   <img src="https://img.shields.io/badge/Speedcubing-WCA-%23EF4444.svg?style=for-the-badge&logo=speedcube&logoColor=white" />
 </a>
 
@@ -32,10 +32,39 @@ I'm a **Full-Stack developer** passionate about building elegant web application
 
 - 🔭 **Currently working on:** Full-stack web apps with **React + Vite** and embedded projects on **ESP32**.
 - 🌱 **Learning:** Advanced algorithms, operating systems, and C++ systems programming.
+- 💼 **Experience:** Full-Stack Developer (Trainee) at the **Masar Program (PreTech)** — shipped Z-Fahm and Tatawo3 65x.
 - 🤝 **Ask me about:** Full-Stack Web Development, C++ / Embedded (ESP32), Linux, and Speedcubing.
 - 📫 **How to reach me:** [abdallazeed3@gmail.com](mailto:abdallazeed3@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abdalla-zaid-81926439b).
-- ⚡ **Fun fact:** Registered **WCA Speedcubing competitor** — I solve in 3x3, 2x2, and One-Handed.
+- ⚡ **Fun fact:** Registered **WCA Speedcubing competitor** ([2022ZEED01](https://www.worldcubeassociation.org/persons/2022ZEED01)) — I solve in 3x3, 2x2, and One-Handed.
 - 🖥️ **OS of choice:** Arch / Debian / Ubuntu — I live in the terminal.
+- 🧮 **Strong in:** Mathematics, discrete math, and algorithmic problem-solving.
+
+---
+
+## 🎓 Education
+
+| | |
+| :--- | :--- |
+| **B.Sc. Computer Science — Software Engineering** | 🏛️ Technion — Israel Institute of Technology (Current) |
+| **Masar Program (PreTech)** | 🎓 Edmond de Rothschild Foundation & Ministry of Education (2025–2026) |
+| **High School Diploma — Intensive Track** | 🏫 Atid Al-Nahda High School · Specialized in Electronics, Physics, CS & Math |
+
+## 📜 Certifications
+
+[![Udemy Badge](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+- 🎉 **The Complete Full-Stack Web Development Bootcamp** — Dr. Angela Yu (Udemy, 2025)
+- ✅ **Masar Program (PreTech) — Graduate** (2026)
+
+## 🏆 Achievements
+
+- 🧊 **Registered WCA Speedcubing Competitor** — official events: 3x3, 2x2, One-Handed
+- 🎓 **Graduated the Masar Program** with two shipped full-stack projects
+
+## 💡 Interests & Coursework
+
+- 🧠 **Interests:** Mathematics, algorithmic thinking, speedcubing, Linux & open source, embedded hardware
+- 📚 **Coursework:** Discrete Mathematics, Data Structures, Algorithms, Operating Systems, Computer Architecture, Linear Algebra, Physics, Electronics
 
 ---
 
@@ -67,16 +96,28 @@ I'm a **Full-Stack developer** passionate about building elegant web application
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
+### 🐧 Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-%23294288.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2387CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahZaid-ggg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahZaid-ggg&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="37%" />
+<img src="https://github-readme-stats.shion.dev/api?username=AbdullahZaid-ggg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbdullahZaid-ggg&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="37%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahZaid-ggg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=AbdullahZaid-ggg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
 </div>
 
