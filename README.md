@@ -5,6 +5,7 @@
 ### Full-Stack Developer · Software Engineering Student @ Technion
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Software+Engineering+Student;Embedded+%26+IoT+Explorer;Linux+Enthusiast;Speedcubing+Competitor+(WCA)" alt="Typing SVG" />
+<br>
 
 <a href="https://portfolio-abdalla-zaid.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-%238B5CF6.svg?style=for-the-badge&logo=About.me&logoColor=white" />
