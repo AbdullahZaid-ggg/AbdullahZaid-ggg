@@ -53,6 +53,7 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 
 ## 📜 Certifications
 
+- 🎓 **Bagrut (Israeli Matriculation) — Graduate** — Atid Al-Nahda High School, Intensive Track: Electronics, Physics, Computer Science & Math
 - ✅ **Masar Program (PreTech) — Graduate** (2026)
 
 ## 🏆 Achievements
