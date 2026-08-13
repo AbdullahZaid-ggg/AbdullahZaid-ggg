@@ -33,7 +33,7 @@ I'm a **Full-Stack developer** passionate about building elegant web application
 
 - 🔭 **Currently working on:** Full-stack web apps with **React + Vite** and embedded projects on **ESP32**.
 - 🌱 **Learning:** Advanced algorithms, operating systems, and C++ systems programming.
-- 💼 **Experience:** Full-Stack Developer (Trainee) at the **Masar Program (PreTech)** — shipped Z-Fahm and Tatawo3 65x.
+- 💼 **Experience:** Full-Stack Developer (Trainee) at the **Masar Program (PreTech)** — shipped the Z-Fahm and Tatawo3 65x frontends.
 - 🤝 **Ask me about:** Full-Stack Web Development, C++ / Embedded (ESP32), Linux, and Speedcubing.
 - 📫 **How to reach me:** [abdallazeed3@gmail.com](mailto:abdallazeed3@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abdalla-zaid-81926439b).
 - ⚡ **Fun fact:** Registered **WCA Speedcubing competitor** ([2022ZEED01](https://www.worldcubeassociation.org/persons/2022ZEED01)) — I solve in 3x3, 2x2, and One-Handed.
@@ -52,15 +52,12 @@ I'm a **Full-Stack developer** passionate about building elegant web application
 
 ## 📜 Certifications
 
-[![Udemy Badge](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-
-- 🎉 **The Complete Full-Stack Web Development Bootcamp** — Dr. Angela Yu (Udemy, 2025)
 - ✅ **Masar Program (PreTech) — Graduate** (2026)
 
 ## 🏆 Achievements
 
 - 🧊 **Registered WCA Speedcubing Competitor** — official events: 3x3, 2x2, One-Handed
-- 🎓 **Graduated the Masar Program** with two shipped full-stack projects
+- 🎓 **Graduated the Masar Program** with two shipped frontend projects
 
 ## 💡 Interests & Coursework
 
