@@ -37,8 +37,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/social?username=AbdullahZaid-ggg&theme=neon&website=portfolio-abdalla-zaid.vercel.app&linkedin=abdalla-zaid-81926439b&mode=light" />
-    <img src="https://gitskins.com/api/section/social?username=AbdullahZaid-ggg&theme=neon&website=portfolio-abdalla-zaid.vercel.app&linkedin=abdalla-zaid-81926439b" alt="AbdullahZaid-ggg social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/social?username=AbdullahZaid-ggg&theme=neon&website=portfolio-abdalla-zaid.vercel.app&linkedin=abdalla-zaid-81926439b&email=abdallazeed3@gmail.com&mode=light" />
+    <img src="https://gitskins.com/api/section/social?username=AbdullahZaid-ggg&theme=neon&website=portfolio-abdalla-zaid.vercel.app&linkedin=abdalla-zaid-81926439b&email=abdallazeed3@gmail.com" alt="AbdullahZaid-ggg social section" />
   </picture>
 </p>
 
