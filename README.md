@@ -37,7 +37,7 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 - 🐧 **Linux:** Hands-on experience with **Debian, Ubuntu, Linux Mint, Fedora, Arch, Parrot OS, Zorin, Pop!_OS, Manjaro, EndeavourOS, Gentoo, Kali, and more** — from daily driving to tinkering, package management, and terminal workflows.
 - 🤝 **Ask me about:** Web Development, C++ / Embedded (ESP32), Linux, and Speedcubing.
 - 📫 **How to reach me:** [abdallazeed3@gmail.com](mailto:abdallazeed3@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abdalla-zaid-81926439b).
-- ⚡ **Fun fact:** Registered **WCA Speedcubing competitor** ([2022ZEED01](https://www.worldcubeassociation.org/persons/2022ZEED01)) — I solve in 3x3, 2x2, and One-Handed.
+- ⚡ **Fun fact:** Registered **WCA Speedcubing competitor** ([2022ZEED01](https://www.worldcubeassociation.org/persons/2022ZEED01)) — I solve the Rubik's cube in ~10 seconds average, competing in 3x3, 2x2, and One-Handed.
 - 🖥️ **OS of choice:** Arch / Debian / Ubuntu — I live in the terminal.
 - 🧮 **Strong in:** Mathematics, discrete math, and algorithmic problem-solving.
 
