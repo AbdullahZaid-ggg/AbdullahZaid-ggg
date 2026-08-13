@@ -45,11 +45,13 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 
 ## 🎓 Education
 
-| | |
-| :--- | :--- |
-| **B.Sc. Computer Science — Software Engineering** | 🏛️ Technion — Israel Institute of Technology (Current) |
-| **Masar Program (PreTech)** | 🎓 Edmond de Rothschild Foundation & Ministry of Education (2025–2026) |
-| **High School Diploma — Intensive Track** | 🏫 Atid Al-Nahda High School · Math 5 units; Physics, Electronics & CS 10 units |
+<table align="center">
+  <tr>
+    <td align="center"><b>🏛️ B.Sc. Computer Science</b><br><i>Software Engineering</i><br>Technion — Israel Institute of Technology<br><sub>Current</sub></td>
+    <td align="center"><b>🎓 Masar Program (PreTech)</b><br><i>Academic prep & high-tech training</i><br>Edmond de Rothschild Foundation & Ministry of Education<br><sub>2025–2026</sub></td>
+    <td align="center"><b>🏫 High School Diploma</b><br><i>Intensive Track — STEM</i><br>Atid Al-Nahda High School<br><sub>Math 5 · Physics, Electronics & CS 10 units</sub></td>
+  </tr>
+</table>
 
 ## 📜 Certifications
 
@@ -79,7 +81,7 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🌐 Frameworks & Web
+### 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,13 +90,12 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Systems, Embedded & Tools
+### ⚙️ Embedded & Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23F5822A.svg?style=for-the-badge&logo=platformio&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
 ### 🐧 Operating Systems
@@ -131,86 +132,46 @@ I'm a **Software Engineering student at the Technion**. My main strengths are **
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/MicroChat-ESP32">
-        <img src="https://placehold.co/600x400/0d1117/7dcfff?text=MicroChat+ESP32" width="100%" />
-      </a>
-      <h3>MicroChat ESP32</h3>
-      <p>Real-time chatroom hosted entirely on an ESP32 — WebSockets over local Wi-Fi, fully offline.</p>
-      <code>C++</code> · <code>ESP32</code> · <code>WebSockets</code> · <code>PlatformIO</code>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/Z-LIB">
-        <img src="https://placehold.co/600x400/0d1117/7dcfff?text=Z-LIB" width="100%" />
-      </a>
-      <h3>Z-LIB — Royal Edition</h3>
-      <p>Terminal library manager in C++17 with a 256-color TUI, arrow-key nav, and zero-dependency JSON engine.</p>
-      <code>C++</code> · <code>TUI</code> · <code>JSON</code> · <code>ANSI Colors</code>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/Z_School_System">
-        <img src="https://raw.githubusercontent.com/AbdullahZaid-ggg/Z_School_System/main/screenshot.svg" width="100%" />
-      </a>
-      <h3>Z-School System</h3>
-      <p>Terminal school management (students, teachers, managers, payments) with fastfetch-style ASCII banner.</p>
-      <code>C++</code> · <code>TUI</code> · <code>CRUD</code> · <code>JSON</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/abdalla-preTech-graduate">
-        <img src="https://placehold.co/600x400/0d1117/7dcfff?text=Z-Fahm" width="100%" />
-      </a>
-      <h3>Z-Fahm — Quiz App</h3>
-      <p>Full-featured interactive quiz built with React 19 + Vite — 98 local questions, API quizzes, PWA.</p>
-      <code>React</code> · <code>Vite</code> · <code>PWA</code> · <code>History</code>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/-Interactive-Terminal-Snake-Game-ESP32-C-">
-        <img src="https://placehold.co/600x400/0d1117/7dcfff?text=Snake+ESP32" width="100%" />
-      </a>
-      <h3>Hardware Snake Game ESP32</h3>
-      <p>The classic Snake game on a physical 8x8 MAX7219 LED matrix — WASD controls, non-blocking timing.</p>
-      <code>C++</code> · <code>ESP32</code> · <code>MAX7219</code> · <code>PlatformIO</code>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/Z_Tasks_Manager_CLI">
-        <img src="https://placehold.co/600x400/0d1117/7dcfff?text=Z-Task+CLI" width="100%" />
-      </a>
-      <h3>Z-Task Manager CLI</h3>
-      <p>Terminal task manager in C — color-coded tables, keyword search, JSON persistence, UTF-8 support.</p>
-      <code>C</code> · <code>CLI</code> · <code>JSON</code> · <code>File I/O</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/MasarEndProgram2526">
-        <img src="https://raw.githubusercontent.com/AbdullahZaid-ggg/MasarEndProgram2526/master/public/logo512.png" width="100%" />
-      </a>
-      <h3>Tatawo3 65x</h3>
-      <p>Volunteer platform for the Wadi Ara region (Masar program) — 48+ centers, interactive map, bilingual.</p>
-      <code>React</code> · <code>Leaflet</code> · <code>OpenStreetMap</code> · <code>PWA</code>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/TeachingHowToSolveRubikCube">
-        <img src="https://placehold.co/600x400/0d1117/7dcfff?text=Rubik+Tutorial" width="100%" />
-      </a>
-      <h3>Rubik's Cube Tutorial</h3>
-      <p>Bilingual 7-step LBL tutorial with a live 3D cube simulator built in Three.js.</p>
-      <code>JavaScript</code> · <code>Three.js</code> · <code>Bootstrap 5</code> · <code>RTL</code>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/AbdullahZaid-ggg/udrusMni7">
-        <img src="https://placehold.co/600x400/0d1117/7dcfff?text=UdruS+Mni7" width="100%" />
-      </a>
-      <h3>UdruS Mni7</h3>
-      <p>Arabic study organizer — Pomodoro timer, progress analytics, offline-first with IndexedDB.</p>
-      <code>React</code> · <code>Dexie.js</code> · <code>IndexedDB</code> · <code>Pomodoro</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/AbdullahZaid-ggg/abdalla-preTech-graduate">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=abdalla-preTech-graduate&theme=tokyonight&hide_border=true" alt="Z-Fahm Quiz App" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/MicroChat-ESP32">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=MicroChat-ESP32&theme=tokyonight&hide_border=true" alt="MicroChat ESP32" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/Z-LIB">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=Z-LIB&theme=tokyonight&hide_border=true" alt="Z-LIB" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/Z-School_System">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=Z_School_System&theme=tokyonight&hide_border=true" alt="Z-School System" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/-Interactive-Terminal-Snake-Game-ESP32-C-">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=-Interactive-Terminal-Snake-Game-ESP32-C-&theme=tokyonight&hide_border=true" alt="Hardware Snake Game ESP32" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/MasarEndProgram2526">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=MasarEndProgram2526&theme=tokyonight&hide_border=true" alt="Tatawo3 65x" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/Z_Tasks_Manager_CLI">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=Z_Tasks_Manager_CLI&theme=tokyonight&hide_border=true" alt="Z-Task Manager CLI" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/TeachingHowToSolveRubikCube">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=TeachingHowToSolveRubikCube&theme=tokyonight&hide_border=true" alt="Rubik's Cube Tutorial" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/udrusMni7">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=udrusMni7&theme=tokyonight&hide_border=true" alt="UdruS Mni7" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/My-School-Graduation-Project">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=My-School-Graduation-Project&theme=tokyonight&hide_border=true" alt="Graduation Robot Car ESP32" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/small_computer_abdalla_zaid">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=small_computer_abdalla_zaid&theme=tokyonight&hide_border=true" alt="ESP32 Mini Terminal OS" />
+</a>
+<a href="https://github.com/AbdullahZaid-ggg/Abdullah-Z-Timer">
+  <img src="https://github-readme-stats.shion.dev/api/pin?username=AbdullahZaid-ggg&repo=Abdullah-Z-Timer&theme=tokyonight&hide_border=true" alt="Z-Timer Pro" />
+</a>
+
+</div>
 
 <div align="center">
   <sub>More projects are pinned on my profile — check them out! 🚀</sub>
