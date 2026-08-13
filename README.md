@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Abdallah Zaid
 
-### Full-Stack Developer · Software Engineering Student @ Technion
+### Software Engineering Student @ Technion
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Software+Engineering+Student;Embedded+%26+IoT+Explorer;Linux+Enthusiast;Speedcubing+Competitor+(WCA)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Software+Engineering+Student;Tech+Enthusiast;Embedded+%26+IoT+Explorer;Linux+Enthusiast;Speedcubing+Competitor+(WCA)" alt="Typing SVG" />
 <br>
 
 <a href="https://portfolio-abdalla-zaid.vercel.app">
@@ -29,13 +29,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack developer** passionate about building elegant web applications and writing clean, efficient systems in **C / C++**. I'm currently studying **Computer Science with a focus on Software Engineering at the Technion**, with a strong background in Physics, Electronics, and embedded development on **ESP32**.
+I'm a **Software Engineering student at the Technion**, passionate about building web applications and writing clean, efficient systems in **C / C++**, with a strong background in Physics, Electronics, and embedded development on **ESP32**. I also do some **frontend work with React and Next.js**.
 
 - 🔭 **Currently working on:** Full-stack web apps with **React + Vite** and embedded projects on **ESP32**.
 - 🌱 **Learning:** Advanced algorithms, operating systems, and C++ systems programming.
 - 💼 **Experience:** Full-Stack Developer (Trainee) at the **Masar Program (PreTech)** — shipped the Z-Fahm and Tatawo3 65x frontends.
 - 🐧 **Linux:** Hands-on experience with **Debian, Ubuntu, Linux Mint, Fedora, Arch, Parrot OS, Zorin, Pop!_OS, Manjaro, EndeavourOS, Gentoo, Kali, and more** — from daily driving to tinkering, package management, and terminal workflows.
-- 🤝 **Ask me about:** Full-Stack Web Development, C++ / Embedded (ESP32), Linux, and Speedcubing.
+- 🤝 **Ask me about:** Web Development, C++ / Embedded (ESP32), Linux, and Speedcubing.
 - 📫 **How to reach me:** [abdallazeed3@gmail.com](mailto:abdallazeed3@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abdalla-zaid-81926439b).
 - ⚡ **Fun fact:** Registered **WCA Speedcubing competitor** ([2022ZEED01](https://www.worldcubeassociation.org/persons/2022ZEED01)) — I solve in 3x3, 2x2, and One-Handed.
 - 🖥️ **OS of choice:** Arch / Debian / Ubuntu — I live in the terminal.
@@ -83,6 +83,7 @@ I'm a **Full-Stack developer** passionate about building elegant web application
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
